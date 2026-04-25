@@ -1,0 +1,12 @@
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\bin\Debug\net9.0\mlnet-house-price-prediction.deps.json
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\bin\Debug\net9.0\mlnet-house-price-prediction.dll
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\bin\Debug\net9.0\mlnet-house-price-prediction.pdb
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\mlnet-house-price-prediction.csproj.AssemblyReference.cache
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\mlnet-house-price-prediction.GeneratedMSBuildEditorConfig.editorconfig
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\mlnet-house-price-prediction.AssemblyInfoInputs.cache
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\mlnet-house-price-prediction.AssemblyInfo.cs
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\mlnet-house-price-prediction.csproj.CoreCompileInputs.cache
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\mlnet-house-price-prediction.dll
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\refint\mlnet-house-price-prediction.dll
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\mlnet-house-price-prediction.pdb
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\ref\mlnet-house-price-prediction.dll
