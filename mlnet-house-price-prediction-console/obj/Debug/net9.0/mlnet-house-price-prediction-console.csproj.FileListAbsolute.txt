@@ -155,3 +155,4 @@ C:\mlnet-house-price-prediction\mlnet-house-price-prediction-console\obj\Debug\n
 C:\mlnet-house-price-prediction\mlnet-house-price-prediction-console\obj\Debug\net9.0\mlnet-house-price-prediction-console.pdb
 C:\mlnet-house-price-prediction\mlnet-house-price-prediction-console\obj\Debug\net9.0\mlnet-house-price-prediction-console.genruntimeconfig.cache
 C:\mlnet-house-price-prediction\mlnet-house-price-prediction-console\obj\Debug\net9.0\ref\mlnet-house-price-prediction-console.dll
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction-console\obj\Debug\net9.0\mlnet-house-price-prediction-console.sourcelink.json

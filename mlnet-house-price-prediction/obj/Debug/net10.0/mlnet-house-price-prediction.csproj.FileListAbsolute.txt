@@ -1,0 +1,13 @@
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\bin\Debug\net10.0\mlnet-house-price-prediction.deps.json
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\bin\Debug\net10.0\mlnet-house-price-prediction.dll
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\bin\Debug\net10.0\mlnet-house-price-prediction.pdb
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\mlnet-house-price-prediction.csproj.AssemblyReference.cache
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\mlnet-house-price-prediction.GeneratedMSBuildEditorConfig.editorconfig
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\mlnet-house-price-prediction.AssemblyInfoInputs.cache
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\mlnet-house-price-prediction.AssemblyInfo.cs
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\mlnet-house-price-prediction.csproj.CoreCompileInputs.cache
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\mlnet-house-price-prediction.sourcelink.json
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\mlnet-house-price-prediction.dll
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\refint\mlnet-house-price-prediction.dll
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\mlnet-house-price-prediction.pdb
+c:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net10.0\ref\mlnet-house-price-prediction.dll

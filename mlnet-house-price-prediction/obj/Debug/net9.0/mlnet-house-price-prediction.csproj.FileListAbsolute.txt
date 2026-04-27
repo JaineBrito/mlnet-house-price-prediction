@@ -10,3 +10,4 @@ C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\ml
 C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\refint\mlnet-house-price-prediction.dll
 C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\mlnet-house-price-prediction.pdb
 C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\ref\mlnet-house-price-prediction.dll
+C:\mlnet-house-price-prediction\mlnet-house-price-prediction\obj\Debug\net9.0\mlnet-house-price-prediction.sourcelink.json
